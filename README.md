@@ -1,11 +1,8 @@
-<!-- author: hgbaodev -->
-<!-- <a href="#" target="_blank">
-  <img src="svg/hgiabaodev.svg" width="1200" alt="hgbaodev-official" />
-</a> -->
 
-<h2 align="center">LanguageLanguage</h2>
+
+<h2 align="center">Language</h2>
 <br>
-<!-- https://simpleicons.org/ -->
+
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=F7DF1E" alt="Php logo" title="PHP" height="25" /></span>
@@ -48,47 +45,28 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
 
-<!-- <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2> -->
-  <!-- https://github.com/anuraghazra/github-readme-stats  -->
-<!-- <br>
-<div align=center>
-  <a href="#" title="hgbaodev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div> -->
+
 
 <br>
 <h2 align="center">Social</h2>
 <br>
-<!-- https://icons8.com -->
+
 <div align="center">
-  <a href="https://www.youtube.com/@hgbaodev" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" alt="hgbaodev-youtube" />
-  </a>
-  <a href="https://facebook.com/hgbaodev" target="_blank">
+ 
+  <a href="https://www.facebook.com/zminhhieu.1" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hgbaodev-facebook" />
   </a>
-  <a href="https://www.tiktok.com/@hgbaodev" target="_blank">
+  <a href="https://www.tiktok.com/@minhhieu123_4?lang=vi-VN" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="hgbaodev-tiktok" />
   </a>
-  <a href="https://www.instagram.com/hgbaodev/" target="_blank">
+  <a href="[https://www.instagram.com/hgbaodev/](https://www.instagram.com/_mhhieu0/)" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hgbaodev-instagram" />
   </a>
-  <a href="https://www.pinterest.com/hgbaodev/" target="_blank">
+  <a href="https://www.pinterest.com/Tharomth/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="hgbaodev-pinterest" />
-  </a>
-  <a href="https://www.twitter.com/hgbaodev/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=108650&format=png" alt="hgbaodev-twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/hgbaodev/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hgbaodev-pinterest" />
-  </a>
-  <a href="mailto:hgbao2k3@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
   </a>
 </div>
 
