@@ -3,7 +3,7 @@
   <img src="svg/hgiabaodev.svg" width="1200" alt="hgbaodev-official" />
 </a> -->
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">LanguageLanguage</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -62,7 +62,7 @@
 </div> -->
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Social</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
