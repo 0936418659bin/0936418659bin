@@ -41,9 +41,6 @@ Building production-grade microservices with Kubernetes, implementing GitOps wor
 **🌱 Learning:**
 Advanced Kubernetes patterns, service mesh architectures, and multi-cloud deployments.
 
-**⚡ Fun fact:**  
-I automate everything that takes more than 5 minutes 🤖
-
 ---
 
 ## 💻 Tech Stack
