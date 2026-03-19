@@ -2,7 +2,7 @@
 
 # 👋 TON THAT MINH HIEU
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Engineer;Cloud+Architecture+Enthusiast;Automation+%26+CI%2FCD+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%26+Spring+Boot;Learning+DevOps;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
 ### 🚀 Building scalable solutions with modern technology
 
@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0936418659bin/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danieldev23&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=0936418659bin&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -21,36 +22,36 @@
 const developer = {
   name: "Ton That Minh Hieu",
   location: "Da Nang, Vietnam 🇻🇳",
-  role: "Backend Developer → DevOps Engineer",
+  role: "Backend Developer",
   
   currentFocus: [
-    "Cloud-native architecture",
-    "Container orchestration", 
-    "CI/CD automation",
-    "Infrastructure as Code"
+    "Building RESTful APIs with Spring Boot",
+    "Database design & optimization", 
+    "Learning Docker & basic DevOps",
+    "Exploring AI & Computer Vision"
   ],
   
-  passion: "Automating workflows & scaling systems",
-  motto: "Code → Build → Deploy → Monitor → Repeat 🔄"
+  passion: "Building useful applications & improving skills everyday",
+  motto: "Learn → Build → Improve 🔄"
 };
 ```
 
 **🔭 Currently working on:**  
-Building production-grade microservices with Kubernetes, implementing GitOps workflows, and mastering cloud infrastructure automation.
+Building backend systems with Spring Boot and developing AI-related projects, implementing GitOps workflows.
 
 **🌱 Learning:**
-Advanced Kubernetes patterns, service mesh architectures, and multi-cloud deployments.
+Docker, basic DevOps concepts, and improving system design skills.
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -92,11 +93,11 @@ Advanced Kubernetes patterns, service mesh architectures, and multi-cloud deploy
 ## 🚀 What I Do
 
 - **Backend Development** — Building responsive web applications with React/Spring Boot and Node.js/NestJS
-- **DevOps Engineering** — Implementing CI/CD pipelines, container orchestration, and cloud infrastructure
-- **Cloud Architecture** — Designing scalable solutions on AWS/Azure with IaC principles
+- **Learning DevOps** — Exploring Docker and deployment basics
+- **Database Management** — Working with MySQL & Firebase
 - **Automation** — Creating workflows with N8n and custom scripts to optimize development processes
 - **Monitoring & Observability** — Setting up comprehensive logging, metrics, and alerting systems
-
+- **AI Projects** — Developing Computer Vision applications 
 ---
 
 ## 📊 GitHub Stats
@@ -123,7 +124,7 @@ Open to **DevOps/backend opportunities**, **technical collaborations**, and **kn
 
 <div align="center">
   
-*"Automating today, scaling tomorrow"*
+*"Keep learning, keep building"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=danieldev23&style=flat-square&color=58a6ff)
 
