@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0936418659bin/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danieldev23&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
-![Profile Views](https://komarev.com/ghpvc/?username=0936418659bin&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
