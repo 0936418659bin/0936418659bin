@@ -36,7 +36,7 @@ const developer = {
 ```
 
 **🔭 Currently working on:**  
-Building backend systems with Spring Boot and developing AI-related projects, implementing GitOps workflow.
+Building backend systems with Spring Boot and developing AI-related projects, implementing GitOps workflows.
 
 **🌱 Learning:**
 Docker, basic DevOps concepts, and improving system design skills.
