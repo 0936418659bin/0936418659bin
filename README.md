@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 TON THAT MINH HIEU
+# TON THAT MINH HIEU
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%26+Spring+Boot;Learning+DevOps;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
-### 🚀 Building scalable solutions with modern technology
+###  Building scalable solutions with modern technology
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-hi%E1%BA%BFu-21838b355/)
@@ -15,7 +15,7 @@
 
 </div>
 
-## 🎯 About Me
+##  About Me
 
 ```typescript
 const developer = {
@@ -35,15 +35,15 @@ const developer = {
 };
 ```
 
-**🔭 Currently working on:**  
+** Currently working on:**  
 Building backend systems with Spring Boot and developing AI-related projects, implementing GitOps workflows.
 
-**🌱 Learning:**
+** Learning:**
 Docker, basic DevOps concepts, and improving system design skills.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -89,7 +89,7 @@ Docker, basic DevOps concepts, and improving system design skills.
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - **Backend Development** — Building responsive web applications with React/Spring Boot and Node.js/NestJS
 - **Learning DevOps** — Exploring Docker and deployment basics
@@ -99,7 +99,7 @@ Docker, basic DevOps concepts, and improving system design skills.
 - **AI Projects** — Developing Computer Vision applications 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0936418659bin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true"/>
@@ -113,11 +113,11 @@ Docker, basic DevOps concepts, and improving system design skills.
 ---
 
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Open to **DevOps/backend opportunities**, **technical collaborations**, and **knowledge sharing**.
 
-📫 **minhhieu051980@gmail.com**  
+ **minhhieu051980@gmail.com**  
 
 ---
 
